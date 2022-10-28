@@ -170,21 +170,21 @@
 }
 .test .test-fc .boxb
 {
-	width:500px;
+	width:600px;
 	height:150px;
 	background-color:red;
     margin-top:40px;
 }
 .test .test-fc .boxc 
 {
-	width:500px;
+	width:600px;
 	height:150px;
 	background-color:red;
 	margin-top:40px;
 }
 .details
 {
-	height:920px;
+	height:950px;
 	background-color:grey;
 	
 }
@@ -231,7 +231,7 @@
 }
 .details .details-fc .boxe
 {
-	height:57px;
+	height:150px;
 	width:600px;;
 	background-color:white;
 	margin-top:40px;
